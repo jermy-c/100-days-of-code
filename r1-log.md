@@ -24,9 +24,9 @@ The log of my #100DaysOfCode challenge. Started on July 22, Thursday, 2021.
 ---
 ### R1D3 July 24, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Redid the navbar and did another section.
 
-**Thoughts:** 
+**Thoughts:** I feel really frustrated and down today but the progress ain't bad for the section area.
 
 **Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
 
