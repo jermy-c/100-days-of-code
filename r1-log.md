@@ -33,9 +33,9 @@ The log of my #100DaysOfCode challenge. Started on July 22, Thursday, 2021.
 ---
 ### R1D4 July 25, 2021
 
-**Today's Progess:** 
+**Today's Progess:** I did the logo area for the navbar and the skills section where I added icons. I also styled the section headers.
 
-**Thoughts:** 
+**Thoughts:** I feel like I'm not making much progress at the moment and I have a headache and I almost gave up the challenge because of it, but thankfully didn't.
 
 **Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
 
