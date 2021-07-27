@@ -42,9 +42,9 @@ The log of my #100DaysOfCode challenge. Started on July 22, Thursday, 2021.
 ---
 ### R1D5 July 26, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Today I did 22/28 concepts of Basic HTML and HTML5 on freeCodeCamp.
 
-**Thoughts:** 
+**Thoughts:** Today I changed my approach to going back to learning the fundamentals because I have a weak foundation on web design. According to Elon Musk learning the foundations will be crucial to learning deeper topics. Because knowledge is like a tree every strong big tree with many branches have a strong root holding the tree down. So I had a weak foundation that's why I am having a hard time coding so that's why went back and freeCodeCamp's platform is project-based so it's perfect. 
 
 **Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
 
