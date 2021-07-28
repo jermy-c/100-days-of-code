@@ -46,261 +46,119 @@ The log of my #100DaysOfCode challenge. Started on July 22, Thursday, 2021.
 
 **Thoughts:** Today I changed my approach to going back to learning the fundamentals because I have a weak foundation on web design. According to Elon Musk learning the foundations will be crucial to learning deeper topics. Because knowledge is like a tree every strong big tree with many branches have a strong root holding the tree down. So I had a weak foundation that's why I am having a hard time coding so that's why went back and freeCodeCamp's platform is project-based so it's perfect. 
 
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
-### R1D5 July 26, 2021
+### R1D6 July 27, 2021
+
+**Today's Progess:** Today I completed Basic HTML and HTML5 28/28 and Basic CSS 17/44. I learnt about values for radio buttons and checkboxes and the declarations for HTML the DOCTYPE, head and body and also div. I also got into styling with font-sizes, colors, font-family, padding, border and margin. I also did background-color, border-radius and width. 
+
+**Thoughts:** HTML is pretty simple but CSS seems very complex there's like a whole dictionary full of CSS properties. Going back to the fundamentals was a great step becasue now I know why I'm doing and coding somethings and I'm understanding the standards for coding.
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D7 July 28, 2021
 
 **Today's Progess:** 
 
 **Thoughts:** 
 
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
-### R1D5 July 26, 2021
+
+### R1D7 July 28, 2021
 
 **Today's Progess:** 
 
 **Thoughts:** 
 
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
-### R1D5 July 26, 2021
+
+### R1D7 July 28, 2021
 
 **Today's Progess:** 
 
 **Thoughts:** 
 
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
-### R1D5 July 26, 2021
+
+### R1D7 July 28, 2021
 
 **Today's Progess:** 
 
 **Thoughts:** 
 
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
-### R1D5 July 26, 2021
+
+### R1D7 July 28, 2021
 
 **Today's Progess:** 
 
 **Thoughts:** 
 
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
-### R1D5 July 26, 2021
+
+### R1D7 July 28, 2021
 
 **Today's Progess:** 
 
 **Thoughts:** 
 
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
-### R1D5 July 26, 2021
+
+### R1D7 July 28, 2021
 
 **Today's Progess:** 
 
 **Thoughts:** 
 
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
-### R1D5 July 26, 2021
+
+### R1D7 July 28, 2021
 
 **Today's Progess:** 
 
 **Thoughts:** 
 
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
-### R1D5 July 26, 2021
+
+### R1D7 July 28, 2021
 
 **Today's Progess:** 
 
 **Thoughts:** 
 
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
-### R1D5 July 26, 2021
+
+### R1D7 July 28, 2021
 
 **Today's Progess:** 
 
 **Thoughts:** 
 
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
-### R1D5 July 26, 2021
 
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
-### R1D5 July 26, 2021
-
-**Today's Progess:** 
-
-**Thoughts:** 
-
-**Link to Work:** [Portfolio Website](https://github.com/jermy-c/portfolio_website)
-
----
 
 
 
