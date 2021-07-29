@@ -61,9 +61,16 @@ The log of my #100DaysOfCode challenge. Started on July 22, Thursday, 2021.
 
 ### R1D7 July 28, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Today I learned about CSS specifically:<br>
+                        Padding & margin- specific sides, clockwise notation<br>
+                        Attribute selectors<br>
+CSS variables<br>
+Colors- hex code & RGB<br>
+Inheritance & overriding<br>
+Media query<br>
+Relative vs absolute units<br>
 
-**Thoughts:** 
+**Thoughts:** It's better to start early in the day and not to be greedy. Overall today was pretty chill. Especially how I didn't have to record a video. Oh and I'm removing that because it doesn't make sense for tweets. I was originally for training for public speaking and reviewing.
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
