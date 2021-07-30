@@ -76,11 +76,11 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D7 July 28, 2021
+### R1D8 July 29, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Today I did Applied Visual Design 34/52. Learned about the color theory, font-size and weight and tags that add text-decoration to your text. Spacing and sizing of text and z-index. Also did positioning. 
 
-**Thoughts:** 
+**Thoughts:** Today was chill, I started early and got little bit greedy and did a bit more. 
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
