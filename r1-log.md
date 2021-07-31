@@ -86,11 +86,11 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D7 July 28, 2021
+### R1D9 July 29, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Today's I did 44/44 of Applied Visual Design and 2/22 of Applied Accessibility.
 
-**Thoughts:** 
+**Thoughts:** Today was much more challenging but was fun. 
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
