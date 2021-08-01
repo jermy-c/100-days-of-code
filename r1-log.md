@@ -86,7 +86,7 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D9 July 29, 2021
+### R1D9 July 30, 2021
 
 **Today's Progess:** Today's I did 44/44 of Applied Visual Design and 2/22 of Applied Accessibility.
 
@@ -96,7 +96,17 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D7 July 28, 2021
+### R1D10 July 31, 2021
+
+**Today's Progess:** Today's progress 22/22 of Applied Accessibility. Concepts were about accessibility for different users and technologies.
+
+**Thoughts:** Today was quite challenging but was really interesting, especially how it relates to the basic structure and SEO.
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D11 August 1, 2021
 
 **Today's Progess:** 
 
@@ -106,7 +116,7 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D7 July 28, 2021
+### R1D12 August 2, 2021
 
 **Today's Progess:** 
 
@@ -116,7 +126,7 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D7 July 28, 2021
+### R1D13 August 3, 2021
 
 **Today's Progess:** 
 
@@ -126,7 +136,7 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D7 July 28, 2021
+### R1D14 August 4, 2021
 
 **Today's Progess:** 
 
@@ -136,7 +146,7 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D7 July 28, 2021
+### R1D15 August 5, 2021
 
 **Today's Progess:** 
 
@@ -146,7 +156,7 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D7 July 28, 2021
+### R1D16 August 6, 2021
 
 **Today's Progess:** 
 
@@ -156,7 +166,97 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D7 July 28, 2021
+### R1D17 August 7, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D18 August 8, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D19 August 9, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D20 August 10, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D21 August 11, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D22 August 12, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D23 August 13, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D24 August 14, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D25 August 15, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
 
 **Today's Progess:** 
 
