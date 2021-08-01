@@ -108,9 +108,9 @@ Relative vs absolute units<br>
 
 ### R1D11 August 1, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Today I did  Responsive Web Design  Principles 4/4, CSS Flexbox 17/17 and CSS Grid 14/22.
 
-**Thoughts:** 
+**Thoughts:** The concepts are getting harder and harder and I'm trying my best to rememeber most of it.
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
