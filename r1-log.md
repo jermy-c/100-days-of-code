@@ -118,11 +118,11 @@ Relative vs absolute units<br>
 
 ### R1D12 August 2, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Today I did CSS Grid 22/22 and started the first project on freeCodeCamp the Tribute Page.
 
-**Thoughts:** 
+**Thoughts:** I finally feel like I'm making progress but I'm still forgeting some of the standards for coding.
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** [Tribute Page](https://github.com/jermy-c/freeCodeCamp-Tribute_Page)
 
 ---
 
