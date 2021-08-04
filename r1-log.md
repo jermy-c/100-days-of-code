@@ -128,11 +128,11 @@ Relative vs absolute units<br>
 
 ### R1D13 August 3, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Today I added the rest of the events for the timeline and started with page styling.
 
-**Thoughts:** 
+**Thoughts:** Today's work was pretty much reptitive so it was brainless and easy I should say. I'm excited for tomorrows stylings.
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** [Tribute Page](https://github.com/jermy-c/freeCodeCamp-Tribute_Page)
 
 ---
 
