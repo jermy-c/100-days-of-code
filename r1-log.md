@@ -138,11 +138,11 @@ Relative vs absolute units<br>
 
 ### R1D14 August 4, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Centred the text and other items
 
-**Thoughts:** 
+**Thoughts:** Today, I really can't commit to the 1hour daily but 30mins so I'm only doing 30mins today...
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** [Tribute Page](https://github.com/jermy-c/freeCodeCamp-Tribute_Page)
 
 ---
 
