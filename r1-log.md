@@ -149,10 +149,14 @@ Relative vs absolute units<br>
 ### R1D15 August 5, 2021
 
 **Today's Progess:** 
+* Completed the first freeCodeCamp project for Responsive Web Design- Tribute Page
+* Started the second freeCodeCamp project for Responsive Web Design with the Basic HTML Structure - Survey Form
 
-**Thoughts:** 
+**Thoughts:** Today I feel much better so I did 2hrs inorder top payback yesterday's 30mins and to compesate for that I did double the time 1hr yesterday's time and 1hr today's time is 2hrs. Today I feel really good because I completed a whole project.
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** 
+* [Tribute Page](https://github.com/jermy-c/freeCodeCamp-Tribute_Page)
+* [Survey Form](https://github.com/jermy-c/freeCodeCamp-Survey_Form)
 
 ---
 
