@@ -162,11 +162,11 @@ Relative vs absolute units<br>
 
 ### R1D16 August 6, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Continued with the HTML structure
 
-**Thoughts:** 
+**Thoughts:** Kinda getting the hang of HTML & CSS. I honestly didn't like HMTL & CSS at first because it seemed weird compared to other programming languages but I'm liking it now, it's a form of "ART". Keep curious! Today feels like not much progress was made because figuring put the structure for the form was difficult.
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** [Survey Form](https://github.com/jermy-c/freeCodeCamp-Survey_Form)
 
 ---
 
