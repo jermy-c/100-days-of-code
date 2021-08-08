@@ -173,10 +173,12 @@ Relative vs absolute units<br>
 ### R1D17 August 7, 2021
 
 **Today's Progess:** 
+*  Completed the rest of the HTML Structure
+* Started adding CSS to the form
 
-**Thoughts:** 
+**Thoughts:** Adding CSS just makes the whole web page different . The web page looks way nicer with just a few lines of CSS code. I feel much progress has been made but at the smae I feel not much has been done the web page still feels all over the place.
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** [Survey Form](https://github.com/jermy-c/freeCodeCamp-Survey_Form)
 
 ---
 
