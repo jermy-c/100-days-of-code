@@ -185,10 +185,13 @@ Relative vs absolute units<br>
 ### R1D18 August 8, 2021
 
 **Today's Progess:** 
+* Continued with the styling
+* Trying to find a theme fit for this page
+* Figuring out the best ergonomics
 
-**Thoughts:** 
+**Thoughts:** Design is very important for web pages. By design I mean the look, ergonomics and the logic. I'm pretty happy with today's progress but I kinda want to change the layout agin just for ergonomics sake.
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** [Survey Form](https://github.com/jermy-c/freeCodeCamp-Survey_Form)
 
 ---
 
