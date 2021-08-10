@@ -198,10 +198,12 @@ Relative vs absolute units<br>
 ### R1D19 August 9, 2021
 
 **Today's Progess:** 
+* Finished the desktop layout. 
+* Starting with the mobile layout.
 
-**Thoughts:** 
+**Thoughts:** There are so many little details that add up to make a web page look and feel nice. Today's work felt crucial for the web page with the redone layout.
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** [Survey Form](https://github.com/jermy-c/freeCodeCamp-Survey_Form)
 
 ---
 
