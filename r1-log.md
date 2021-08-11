@@ -210,10 +210,13 @@ Relative vs absolute units<br>
 ### R1D20 August 10, 2021
 
 **Today's Progess:** 
+* Continued the mobile layout.
+* Tweaked some little details for the overall layout.
+* Added in the names for some of the inputs.
 
-**Thoughts:** 
+**Thoughts:** Progress is starting to get slow again but I'm learning a lot from these challenges.
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** [Survey Form](https://github.com/jermy-c/freeCodeCamp-Survey_Form)
 
 ---
 
