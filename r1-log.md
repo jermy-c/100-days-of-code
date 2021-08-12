@@ -223,10 +223,15 @@ Relative vs absolute units<br>
 ### R1D21 August 11, 2021
 
 **Today's Progess:** 
+* Setup all the repositories for the Responsive Web Design projects
+* Started off with the Product Landing Page project
 
-**Thoughts:** 
+**Thoughts:** Perfection for the Survey Form project was really killing my progress. So I went and started the other projects.
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** 
+* [Product Landing Page](https://github.com/jermy-c/freeCodeCamp-Product_Landing_Page)
+* [Technical Documentation Page](https://github.com/jermy-c/freeCodeCamp-Technical_Documentation_Page)
+* [Personal Portfolio Page](https://github.com/jermy-c/freeCodeCamp-Personal_Portfolio_Webpage)
 
 ---
 
