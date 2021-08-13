@@ -237,11 +237,13 @@ Relative vs absolute units<br>
 
 ### R1D22 August 12, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Finished the Survey Form project.
 
 **Thoughts:** 
+* The fundamental elements were core to completing and creating a good design for the project. 
+* The content on the projects don't really matter, what matters is the concepts.
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** [Survey Form](https://github.com/jermy-c/freeCodeCamp-Survey_Form)
 
 ---
 
