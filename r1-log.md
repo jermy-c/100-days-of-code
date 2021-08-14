@@ -249,11 +249,14 @@ Relative vs absolute units<br>
 
 ### R1D23 August 13, 2021
 
-**Today's Progess:** 
+**Today's Progess:**  Finished the HTML structure of the Technical Documentation Page project
 
 **Thoughts:** 
+* Good development practices are very important for a smooth development experience. 
+* Practicing is more important than knowing in coding.
+* Today was pretty brainless and repetitive coding for me.
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** [Technical Documentation Page](https://github.com/jermy-c/freeCodeCamp-Technical_Documentation_Page)
 
 ---
 
