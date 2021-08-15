@@ -262,11 +262,20 @@ Relative vs absolute units<br>
 
 ### R1D24 August 14, 2021
 
-**Today's Progess:** 
+**Today's Progess:**  
+* Completed the Product Landing Page project
+* Completed the Technical Documentation Page project
+* Started the Personal Portfolio Webpage project
 
 **Thoughts:** 
+* Having set deadlines even for a challenge like this does help with accelerating progress.
+* Leaving out perfection was really the key for progress, now I'm just completing the minimal for each project while trying to apply as much concepts as I can.
+* Today I feel motivated because of the little pressure the deadlines give me.
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** 
+* [Product Landing Page](https://github.com/jermy-c/freeCodeCamp-Product_Landing_Page)
+* [Technical Documentation Page](https://github.com/jermy-c/freeCodeCamp-Technical_Documentation_Page)
+* [Personal Portfolio Page](https://github.com/jermy-c/freeCodeCamp-Personal_Portfolio_Webpage)
 
 ---
 
