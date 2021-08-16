@@ -281,11 +281,11 @@ Relative vs absolute units<br>
 
 ### R1D25 August 15, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Completed the Personal Portfolio Webpage project
 
-**Thoughts:** 
+**Thoughts:** Honestly, I didn't think that I would complete this project today, but hey... this proves that if you put your mind to it, it gives the opportunity for a possibility of achieving.
 
-**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+**Link to Work:** [Personal Portfolio Page](https://github.com/jermy-c/freeCodeCamp-Personal_Portfolio_Webpage)
 
 ---
 
