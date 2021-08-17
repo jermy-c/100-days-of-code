@@ -291,6 +291,76 @@ Relative vs absolute units<br>
 
 ### R1D26 August 16, 2021
 
+**Today's Progess:** Completed 50/111 of Basic Javascript
+
+**Thoughts:** Today school starts again and it is so tiring with 3 classes today and trying to complete this and other bits...
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
 **Today's Progess:** 
 
 **Thoughts:** 
