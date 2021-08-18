@@ -309,11 +309,11 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D26 August 16, 2021
+### R1D28 August 18, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Completed 94/111 of Basic Javascript 
 
-**Thoughts:** 
+**Thoughts:**  Today's problem with the updateRecords function was really challenging. Going to get my second of vaccine tomorrow, that's why finishing off today with just 1hr instead of over 1hr, so I can rest...
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
