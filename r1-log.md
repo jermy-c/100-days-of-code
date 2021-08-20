@@ -319,11 +319,14 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D26 August 16, 2021
+### R1D29 August 19, 2021
 
 **Today's Progess:** 
+* Completed 111/111 of Basic Javascript 
+* Completed 8/31 of ES6
 
 **Thoughts:** 
+* Today was pretty chill... just did coding whenever sitting at a screen...
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
