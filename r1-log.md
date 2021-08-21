@@ -332,11 +332,13 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D26 August 16, 2021
+### R1D30 August 20, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Completed 31/31 of ES6
 
 **Thoughts:** 
+* Things are pretty slow...but the concepts are more fun now, with server request!
+* Today's concepts reminded me of me trying to do react.js without learning JS and now I kinda understand why things are like that
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
