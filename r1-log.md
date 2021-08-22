@@ -344,11 +344,13 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D26 August 16, 2021
+### R1D31 August 21, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Completed 33/33 Regular Expressions 
 
 **Thoughts:** 
+* Pretty slow today... but still making progress... 
+* Regular expressions ain't as fun yesterdays concepts... but I'm confident I'll find the fun of it later on...
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
