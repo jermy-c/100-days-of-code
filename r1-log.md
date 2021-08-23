@@ -356,11 +356,13 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D26 August 16, 2021
+### R1D32 August 22, 2021
 
 **Today's Progess:** 
+* Completed 12/12 Debugging
+* Completed 20/20 Basic Data Structures
 
-**Thoughts:** 
+**Thoughts:** Today was pretty challenging again but dealing with data is much more fun!
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
