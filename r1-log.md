@@ -368,6 +368,16 @@ Relative vs absolute units<br>
 
 ---
 
+### R1D33 August 23, 2021
+
+**Today's Progess:** Completed 9/16 Basic Algorithm Scripting
+
+**Thoughts:** So overwhelmed right now with schoolwork... especially with essays... but still have quite a bit of will power for coding, I mean you can see things happening in coding which is so much fun!Love code
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
 ### R1D26 August 16, 2021
 
 **Today's Progess:** 
@@ -377,6 +387,87 @@ Relative vs absolute units<br>
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+### R1D26 August 16, 2021
+
+**Today's Progess:** 
+
+**Thoughts:** 
+
+**Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
 
 
 
