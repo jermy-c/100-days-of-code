@@ -378,11 +378,11 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D26 August 16, 2021
+### R1D34 August 24, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Completed 12/16 of Basic Algorithm Scripting
 
-**Thoughts:** 
+**Thoughts:** So tired today... just trying to do something... and skipped yesterday, yep, so... off track and overwhelmed right now with school work.
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
