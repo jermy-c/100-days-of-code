@@ -378,7 +378,7 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D34 August 24, 2021
+### R1D34 August 25, 2021
 
 **Today's Progess:** Completed 12/16 of Basic Algorithm Scripting
 
@@ -388,11 +388,11 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D26 August 16, 2021
+### R1D35 August 26, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Completed 15/16 of Basic Algorithm Scripting
 
-**Thoughts:** 
+**Thoughts:** Today I just completed only 1hr no more than that extra time goes to resting because resting is important especially right now since school has started so it's not overwhelming.
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
