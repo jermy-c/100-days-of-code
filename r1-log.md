@@ -410,11 +410,11 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D26 August 16, 2021
+### R1D37 August 28, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Completed 26/26 of Object Oriented Programming
 
-**Thoughts:** 
+**Thoughts:** Just enjoying the process of coding...
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
