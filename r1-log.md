@@ -420,11 +420,11 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D26 August 16, 2021
+### R1D38 August 29, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Completed 6/24 of Functional Programming
 
-**Thoughts:** 
+**Thoughts:** Ahh.... my eyes feel so sore today...
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
