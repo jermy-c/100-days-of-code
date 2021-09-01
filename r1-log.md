@@ -430,11 +430,13 @@ Relative vs absolute units<br>
 
 ---
 
-### R1D26 August 16, 2021
+### R1D39 August 31, 2021
 
-**Today's Progess:** 
+**Today's Progess:** Completed 11/24 of Functional Programming
 
 **Thoughts:** 
+* It's good to take a break when you need it. 
+* Alternating between tasks during the day really help as each task works a different organ in the body and it's good to give each a rest.
 
 **Link to Work:** [freeCodeCamp](https://www.freecodecamp.org/)
 
